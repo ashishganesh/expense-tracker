@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Main Wallet Body Card Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,36 H74 C78.4,36 82,39.6 82,44 V64 C82,68.4 78.4,72 74,72 H34 C29.6,72 26,68.4 26,64 V44 C26,39.6 29.6,36 34,36 Z" />
+    <!-- Accent Wallet Inner Cut / Card slot divider -->
+    <path
+        android:fillColor="#B39DDB"
+        android:pathData="M26,44 H82 V48 H26 Z" />
+    <!-- Wallet Buckle Fold Strap -->
+    <path
+        android:fillColor="#7E57C2"
+        android:pathData="M66,48 H84 V60 H66 C62.7,60 60,57.3 60,54 V54 C60,50.7 62.7,48 66,48 Z" />
+    <!-- Strap Gold Lock Stud -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M70,54 A3,3 0 1,1 76,54 A3,3 0 1,1 70,54" />
+    <!-- Outlined Trend Arrow representing Cash flow -->
+    <path
+        android:strokeColor="#121212"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M34,60 L44,50 L52,56 L62,42 M54,42 H62 V50" />
+</vector>

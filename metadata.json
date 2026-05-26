@@ -1,0 +1,6 @@
+{
+  "name": "FinFlow",
+  "description": "A modern offline-first personal expense and income tracker with multi-account support, budget management, and visual analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
